@@ -1,2 +1,2 @@
-# cartoon-hero
-my first website aboyt my cartoon hero
+<h1>My first website</h1>
+<p>my fav color is red</p>
